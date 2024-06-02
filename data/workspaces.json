@@ -840,7 +840,6 @@
                     "channel": [],
                     "message": [],
                     "interaction": [
-                        "jOBttoN4dd",
                         "bdz9vrx4Rv",
                         "ls6uU5c1En"
                     ],
@@ -1081,7 +1080,6 @@
                     "channel": [],
                     "message": [],
                     "interaction": [
-                        "KC03fm5Omd",
                         "R1zdBvPXIN",
                         "YkACZ8jSIc"
                     ],
@@ -3707,7 +3705,7 @@
         ]
     },
     {
-        "id": "7I0ZrnWcsA",
+        "id": "7LHc34YNbf",
         "active": true,
         "info": {
             "title": "Emitter Ticket template",
@@ -3796,6 +3794,138 @@
                     "text3": "",
                     "text4": "",
                     "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [
+                        "XinUA68oag"
+                    ],
+                    "text2": [
+                        "SnnOwVctDj"
+                    ],
+                    "text3": [
+                        "h4kzwm4xDJ"
+                    ],
+                    "text4": [
+                        "g6HFHAePUa"
+                    ],
+                    "text5": [
+                        "iHMcDs6d1B"
+                    ],
+                    "text6": []
+                },
+                "info": {
+                    "x": 180,
+                    "y": 610,
+                    "z": 0,
+                    "width": 590,
+                    "height": 890,
+                    "color": ""
+                }
+            }
+        ],
+        "notes": [
+            {
+                "title": "How to use",
+                "description": "1. Type of interaction: Button\n2. Name/ID: name of the button you made in another command\n3. Text1: EmitterID (ticketemitter)\n4. Text2: txt file that will check the amount of tickets that you already had\n5. Text3: Name of the ticketchannel in format text-####. Leave out the -####\n6. Text4: Title of the embed\n7. Text5: Description of the embed",
+                "color": "#2be9a9",
+                "x": 50,
+                "y": 40,
+                "width": 1470,
+                "height": 1490
+            }
+        ]
+    },
+    {
+        "id": "7I0ZrnWcsA",
+        "active": true,
+        "info": {
+            "title": "Staff ticket",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "interaction_event",
+                "inputs": {},
+                "options": {
+                    "type": "button",
+                    "id": "ticketmain1",
+                    "sub": "",
+                    "group": "",
+                    "value": ""
+                },
+                "outputs": {
+                    "action": [
+                        "08Dx5kTuVn"
+                    ],
+                    "user": [],
+                    "member": [
+                        "btylWVNDo2"
+                    ],
+                    "server": [
+                        "rIdfJv8p5l"
+                    ],
+                    "channel": [],
+                    "message": [],
+                    "interaction": [
+                        "2KlEfnyXAP"
+                    ],
+                    "args": [],
+                    "name": [],
+                    "menuvalues": [],
+                    "subcommandname": [],
+                    "subcommandgroup": []
+                },
+                "info": {
+                    "x": 180,
+                    "y": 200,
+                    "z": 0,
+                    "width": 396,
+                    "height": 396,
+                    "color": ""
+                }
+            },
+            {
+                "name": "emitter 8x",
+                "inputs": {
+                    "action": "08Dx5kTuVn",
+                    "id": "XinUA68oag",
+                    "search_value": "cWWT3VhdN5",
+                    "value1": "btylWVNDo2",
+                    "value2": "rIdfJv8p5l",
+                    "value3": "SnnOwVctDj",
+                    "value4": "h4kzwm4xDJ",
+                    "value5": "g6HFHAePUa",
+                    "value6": "iHMcDs6d1B",
+                    "value7": "7yIrZQKr3W",
+                    "value8": "2KlEfnyXAP"
+                },
+                "options": {
+                    "restriction_type": "all",
+                    "search_type": "number"
+                },
+                "outputs": {
+                    "action": []
+                },
+                "info": {
+                    "x": 980,
+                    "y": 390,
+                    "z": 0,
+                    "width": 455,
+                    "height": 358,
+                    "color": ""
+                }
+            },
+            {
+                "name": "text_6x",
+                "inputs": {},
+                "options": {
+                    "text1": "ticketemitter",
+                    "text2": "count1.txt",
+                    "text3": "ticket",
+                    "text4": "Staff ticket",
+                    "text5": "Thank you for making a ticket with us. We will be with you shortly.",
                     "text6": ""
                 },
                 "outputs": {
@@ -6925,7 +7055,6 @@
                         "kZ36g3emtM"
                     ],
                     "message_embed": [
-                        "ZkYPTnOWSu",
                         "cSzOfUMn9l"
                     ]
                 },
@@ -6961,7 +7090,6 @@
                         "zNNIfZeuZk"
                     ],
                     "message_embed": [
-                        "1VYAH6ydRF",
                         "6lh201y4Rw"
                     ]
                 },
@@ -7207,7 +7335,6 @@
                         "1gZmpK8Sn9"
                     ],
                     "message_embed": [
-                        "uqS1uYuUIP",
                         "m0R6erqEiu"
                     ]
                 },
@@ -7376,7 +7503,6 @@
                         "vsp3ZkcKWI"
                     ],
                     "message_embed": [
-                        "V2Rv9s38nV",
                         "WsnM7xQrZx"
                     ]
                 },
@@ -7412,7 +7538,6 @@
                         "O2O4yZc4AS"
                     ],
                     "message_embed": [
-                        "Ub1Y5nvyrL",
                         "GdQumCCTC8"
                     ]
                 },
@@ -7698,7 +7823,6 @@
                         "DFmXsoSkAO"
                     ],
                     "message_embed": [
-                        "HaEoCoKz97",
                         "A0sPn9WUVW"
                     ]
                 },
@@ -7734,7 +7858,6 @@
                         "YLrf8PM4wb"
                     ],
                     "message_embed": [
-                        "Obq3MnXT4O",
                         "SYb3wQUrtu"
                     ]
                 },
@@ -7968,7 +8091,6 @@
                         "RBwfqlsFaU"
                     ],
                     "message_embed": [
-                        "WxM7ReKpXj",
                         "nu7NLsqGa5"
                     ]
                 },
@@ -8004,7 +8126,6 @@
                         "iech5rGVpf"
                     ],
                     "message_embed": [
-                        "2HrxGC7HuA",
                         "J8LDmoz14y"
                     ]
                 },

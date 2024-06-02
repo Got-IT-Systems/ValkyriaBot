@@ -5675,7 +5675,7 @@
                 "color": "#2be9a9",
                 "x": 50,
                 "y": 40,
-                "width": 1470,
+                "width": 1450,
                 "height": 1490
             }
         ]
@@ -7895,7 +7895,7 @@
                 "name": "text",
                 "inputs": {},
                 "options": {
-                    "text": "ValkyriaBot™ version 7 ALPHA 0.5"
+                    "text": "ValkyriaBot™ version 7 ALPHA 0.6"
                 },
                 "outputs": {
                     "text": [

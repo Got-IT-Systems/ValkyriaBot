@@ -5305,7 +5305,9 @@
                     ],
                     "args": [],
                     "name": [
-                        "VQpe6oOi58"
+                        "VQpe6oOi58",
+                        "kbmlXq68IL",
+                        "cIgt0tdIKd"
                     ],
                     "menuvalues": [],
                     "subcommandname": [],
@@ -5615,7 +5617,10 @@
                     ],
                     "args": [],
                     "name": [
-                        "VQpe6oOi58"
+                        "fDiXBq3t3S",
+                        "VQpe6oOi58",
+                        "kbmlXq68IL",
+                        "cIgt0tdIKd"
                     ],
                     "menuvalues": [],
                     "subcommandname": [],
@@ -5756,7 +5761,7 @@
                 },
                 "outputs": {
                     "action": [
-                        "08Dx5kTuVn"
+                        "U47ofsekvN"
                     ],
                     "text": [
                         "SnnOwVctDj"
@@ -5872,6 +5877,29 @@
                     "z": 0,
                     "width": 364,
                     "height": 164,
+                    "color": ""
+                }
+            },
+            {
+                "name": "console_log",
+                "inputs": {
+                    "action": "U47ofsekvN",
+                    "value": "c5m1Lr4PIb"
+                },
+                "options": {
+                    "value": "emit start"
+                },
+                "outputs": {
+                    "action": [
+                        "08Dx5kTuVn"
+                    ]
+                },
+                "info": {
+                    "x": 875,
+                    "y": 447,
+                    "z": 0,
+                    "width": 364,
+                    "height": 117,
                     "color": ""
                 }
             }
@@ -8103,7 +8131,7 @@
                 "name": "text",
                 "inputs": {},
                 "options": {
-                    "text": "ValkyriaBot™ version 7 ALPHA 0.10"
+                    "text": "ValkyriaBot™ version 7 ALPHA 0.12"
                 },
                 "outputs": {
                     "text": [

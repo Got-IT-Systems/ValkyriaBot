@@ -18,18 +18,10 @@
                     "text4": "db.conf1"
                 },
                 "outputs": {
-                    "text1": [
-                        "DMtf3vnIwu"
-                    ],
-                    "text2": [
-                        "WHITsKQz8r"
-                    ],
-                    "text3": [
-                        "bm2ZmrPUli"
-                    ],
-                    "text4": [
-                        "VTOaUYEobp"
-                    ]
+                    "text1": [],
+                    "text2": [],
+                    "text3": [],
+                    "text4": []
                 },
                 "info": {
                     "x": 90,
@@ -47,9 +39,7 @@
                     "number": 3306
                 },
                 "outputs": {
-                    "number": [
-                        "pPF5jiHnxt"
-                    ]
+                    "number": []
                 },
                 "info": {
                     "x": 60,
@@ -273,14 +263,14 @@
             },
             {
                 "name": "database_sql_file",
-                "inputs": {
-                    "host": "SpZNh8SWlX",
-                    "port": "asND8bAImo",
-                    "user": "Mcm7tz7J1A",
-                    "password": "qS08eE2rAO",
-                    "database": "6Zd0xorIME"
+                "inputs": {},
+                "options": {
+                    "host": "",
+                    "port": "",
+                    "user": "",
+                    "password": "",
+                    "database": ""
                 },
-                "options": {},
                 "outputs": {
                     "action": [
                         "3TiN9qVivn"
@@ -307,21 +297,11 @@
                     "text6": "[DB Test] Connection established to database T-Huis"
                 },
                 "outputs": {
-                    "text1": [
-                        "SpZNh8SWlX"
-                    ],
-                    "text2": [
-                        "asND8bAImo"
-                    ],
-                    "text3": [
-                        "Mcm7tz7J1A"
-                    ],
-                    "text4": [
-                        "qS08eE2rAO"
-                    ],
-                    "text5": [
-                        "6Zd0xorIME"
-                    ],
+                    "text1": [],
+                    "text2": [],
+                    "text3": [],
+                    "text4": [],
+                    "text5": [],
                     "text6": [
                         "wbB6d9KcwZ"
                     ]
@@ -7446,7 +7426,8 @@
                         "1nR8a73DzU"
                     ],
                     "result": [
-                        "Qlzz784s4v"
+                        "Qlzz784s4v",
+                        "Jzm7LUmCAO"
                     ]
                 },
                 "info": {
@@ -7527,7 +7508,7 @@
                     "button_row": "PCMJHXDQmR"
                 },
                 "options": {
-                    "text": ""
+                    "text": "<@${text1}>"
                 },
                 "outputs": {
                     "action": [
@@ -10645,7 +10626,7 @@
                 "name": "text",
                 "inputs": {},
                 "options": {
-                    "text": "ValkyriaBot™ version 7.0.2"
+                    "text": "ValkyriaBot™ version 7.0.3"
                 },
                 "outputs": {
                     "text": [
